@@ -1,0 +1,101 @@
+body 
+{
+    background-color: rgb(25, 53, 114);
+    text-align: center;
+    color: rgb(230, 230, 230);
+}
+a 
+{
+    color: rgb(255, 117, 181);
+}
+
+img 
+{
+    background-color: aliceblue;
+    border-color:lightgray;
+    border-style: double;
+    border-width: 7px;
+    padding: 1px;
+    margin-top: 10px;
+}
+#picOfMe
+{
+    alt: "Old pic of me"; 
+    width: 400px;
+    height: 300px;
+}
+#amman
+{
+    alt: "Amman, Jordan";
+    width: 500px;
+    height: 300px;
+}
+#amalfi
+{
+    alt: "Amalfi Coast, my favorite place"; 
+    width: 500px;
+    height: 300px
+}
+#ohacksio
+{
+    alt: "OHacksIO Logo"; 
+    width: 500px;
+    height: 200px;
+}
+#france
+{
+    alt: "Where I stayed in "; 
+    width: 300px;
+    height: 350px;
+}
+
+ul 
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    list-style-type:lower-alpha;
+    list-style-image: radial-gradient(violet, purple)
+}
+.info0
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 120);
+    background-color: rgb(34, 70, 146);
+    margin: 20px;
+    padding: 10px;
+}
+.info1
+{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 0, 120);
+    background-color: rgb(27, 49, 97);
+    margin: 20px;
+    padding: 10px;
+}
+li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1 
+{
+    margin-bottom: 0px;
+    font-size: 60px;
+    font-family: fantasy;
+}
+h3 
+{
+    color:lightskyblue;
+    margin-bottom: -5px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+h4
+{
+    color:lightskyblue;
+    margin-bottom: -5px;
+    font-family: sans-serif;
+    font-size: 24px;
+}
